@@ -1,7 +1,7 @@
 '''
 Author: Pratik Shukla
 Email: pratiks@pratiks.net
-desc: pythong console based tic-tac-toe using 3D matrix
+desc: python console based tic-tac-toe using 3D matrix
 '''
 
 import copy
